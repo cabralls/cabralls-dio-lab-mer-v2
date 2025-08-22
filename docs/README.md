@@ -4,6 +4,6 @@ Este repositório contém o modelo entidade-relacionamento utilizado no projeto 
 
 ## Diagrama
 
-![Diagrama EER](diagrama.png)
+![Diagrama EER](diagramaV2.png)
 
 > O arquivo acima foi gerado a partir do MySQL Workbench e exportado em formato PNG.
